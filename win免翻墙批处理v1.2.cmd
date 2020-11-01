@@ -6,12 +6,12 @@ if %errorlevel% NEQ 0 (
 @attrib -r "%windir%\system32\drivers\etc\hosts"
 @echo 104.31.66.212	hsex.men >>"%windir%\system32\drivers\etc\hosts" 
 @echo 104.31.67.212	hsex.men >>"%windir%\system32\drivers\etc\hosts"
-@echo 104.31.66.212	v.hsex.men >>"%windir%\system32\drivers\etc\hosts"
-@echo 104.31.67.212	v.hsex.men >>"%windir%\system32\drivers\etc\hosts"
+@echo 104.31.66.212	cdn.hsex.men >>"%windir%\system32\drivers\etc\hosts"
+@echo 104.31.67.212	cdn.hsex.men >>"%windir%\system32\drivers\etc\hosts"
 @attrib +r "%windir%\system32\drivers\etc\hosts"
 )
 
-echo Ð´Èë³É¹¦...3Ãëºó´ò¿ªÍøÕ¾¡£
+echo å†™å…¥æˆåŠŸ...3ç§’åŽæ‰“å¼€ç½‘ç«™ã€‚
 choice /t 3 /d y /n >nul
 explorer.exe open=https://hsex.men
 ::pause
