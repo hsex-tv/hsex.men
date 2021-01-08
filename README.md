@@ -1,2 +1,2 @@
 # hsex.men
-win免翻墙批处理可以在win系统免翻墙。
+免翻墙域名hsex.91hs.top
