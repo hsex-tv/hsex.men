@@ -6,8 +6,6 @@ if %errorlevel% NEQ 0 (
 @attrib -r "%windir%\system32\drivers\etc\hosts"
 @echo 104.31.66.212	hsex.men >>"%windir%\system32\drivers\etc\hosts" 
 @echo 104.31.67.212	hsex.men >>"%windir%\system32\drivers\etc\hosts"
-@echo 104.31.66.212	cdn.hsex.men >>"%windir%\system32\drivers\etc\hosts"
-@echo 104.31.67.212	cdn.hsex.men >>"%windir%\system32\drivers\etc\hosts"
 @attrib +r "%windir%\system32\drivers\etc\hosts"
 )
 
