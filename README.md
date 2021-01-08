@@ -1,2 +1,3 @@
 # hsex.men
-免翻墙域名hsex.91hs.top
+免翻墙域名：
+hsex.91hs.top
